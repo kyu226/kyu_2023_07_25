@@ -22,4 +22,5 @@ while True:
             print(f"您已經猜了{count}次")
     else:
         print("超出範圍")
+        
 print("GAME OVER")  

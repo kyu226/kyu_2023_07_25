@@ -32,4 +32,5 @@ while True:
             break
         else:
             continue
+        
 print("遊戲結束")
